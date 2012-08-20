@@ -1,9 +1,9 @@
 if (Meteor.is_client) {
-  Template.hello.greeting = function () {
+  Template.index.greeting = function () {
     return "Welcome to DreamsLinked.";
   };
 
-  Template.hello.events = {
+  Template.index.events = {
     'click input' : function () {
       // template data, if any, is available in 'this'
       if (typeof console !== 'undefined')
