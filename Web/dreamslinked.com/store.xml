@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>DreamsLinked Store</title>
+		<description>Updates to our merchendise, upcoming deals, </description>
+		<link>http://www.directoryoflinksgohere</link>
+		<item>
+			<title>DreamsLinked Store goes online!</title>
+			<description>The description goes here</description>
+			<link>http://www.linkgoeshere.com</link>
+			<guid isPermaLink="false">Article 1</guid>
+		</item>
+		<item>
+			<title>RSS Feed Test</title>
+			<description>Here I am today, testing out the new RSS Feed. I hope it works!</description>
+			<guid isPermaLink="false">Article 2</guid>
+		</item>
+		<item>
+			<title>Ultrasone?</title>
+			<description>We love music, we love high quality, and we now have the opportunity to work with ULtrasone’s top of the line headphones. If you are not familiar with Ultrasone, here is a quick breakdown of their innovative headphones. These German engineered headphones all come with Ultrasone's patented S-Logic™ Natural Surround Sound and S-Logic™ PLUS</description>
+			<guid isPermaLink="false">Article 2</guid>
+		</item>
+	</channel>
+</rss>

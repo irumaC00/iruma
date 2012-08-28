@@ -1,0 +1,94 @@
+/** Tab settings **/
+.srr-tab-wrap{
+	margin: 5px 0px 10px!important;
+	background: none !important;
+	border: none !important;
+	padding: 0px !important;
+}
+.srr-tab-wrap li{
+	list-style: none !important;
+	float: left;
+	background-image: none !important;
+	background-color: #F9F9F9;
+	margin: 5px 5px 0px 0px !important;
+	padding: 3px!important;
+	border: 1px solid #CCCCCC;
+	cursor: pointer;
+}
+.srr-active-tab{
+	background: #ccc !important;
+}
+
+/** General styling **/
+.srr-wrap{
+	padding: 0px !important;
+}
+.srr-wrap div{
+	left: 0px;
+	right: 0px;
+}
+.srr-wrap .srr-item{
+	border-top: 0px;
+	padding: 10px;
+}
+.srr-wrap .srr-item:last-child{
+	margin: 0px;
+}
+
+/** Styles **/
+
+/** Grey **/
+.srr-style-grey{
+	border: 1px solid #dfdfdf;
+}
+.srr-style-grey .srr-item{
+	border-bottom: 1px solid #dfdfdf;
+}
+.srr-style-grey .even{
+	background-color: #F8F8F8;
+}
+
+/** Dark **/
+.srr-style-dark{
+	background: #000;
+	border: 1px solid #ccc;
+	color: #DDDDDD!important;
+}
+.srr-style-dark a{
+	color: #FFFFFF !important;
+}
+.srr-style-dark .srr-item{
+	border-color: #333
+}
+.srr-style-dark .even{
+	background: #333333;
+}
+.srr-tab-style-dark li{
+	border-color: #666666;
+	background: #333;
+	color: #FFFFFF !important;
+}
+.srr-tab-style-dark .srr-active-tab{
+	background: #666666!important;
+}
+
+/** Clearfix hack **/
+* html .srr-clearfix{
+  height: 1%;
+  overflow: visible;
+}
+
+/* float clearing for IE7 */
+*+html .srr-clearfix{
+  min-height: 1%;
+}
+
+/* float clearing for everyone else */
+.srr-clearfix:after{
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+  font-size: 0;
+}
