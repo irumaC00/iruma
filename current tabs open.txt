@@ -91,3 +91,14 @@ https://www.google.com/search?q=how+to+install+jdk+7+on+windows&aq=f&sugexp=chro
 http://docs.oracle.com/javase/7/docs/webnotes/install/windows/jdk-installation-windows.html
 http://docs.oracle.com/javase/7/docs/webnotes/install/index.html
 http://www.java-forums.org/new-java/25868-installing-java-jdk-windows-7-setup-path-solution.html
+
+9/17/12
+Password Protection
+http://crackstation.net/hashing-security.htm#normalhashing
+https://defuse.ca/https://defuse.ca/passgen.htm
+http://php.net/manual/en/function.mcrypt-create-iv.php
+http://php.net/manual/en/function.openssl-random-pseudo-bytes.php
+https://defuse.ca/php-pbkdf2.htm
+http://en.wikipedia.org/wiki/HMAC
+http://crackstation.net/hashing-security.htm#phpsourcecode
+http://oreilly.com/php/archive/mvc-intro.html
