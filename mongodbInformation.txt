@@ -1,0 +1,17 @@
+http://trentwalton.com/
+http://www.quora.com/Node-js/How-does-the-meteor-com-framework-impact-the-Node-js-ecosystem
+http://www.google.com/search?q=mongodb+security%3F&sugexp=chrome,mod=8&sourceid=chrome&ie=UTF-8#hl=en&sugexp=les%3B&gs_nf=1&pq=mongodb%20security%3F&cp=17&gs_id=4&xhr=t&q=mongodb+security+issues&pf=p&sclient=psy-ab&oq=mongodb+security+&gs_l=&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=bad0038c0c424fa9&biw=863&bih=858
+http://blog.astyran.sg/2011/11/there-is-no-security-in-nosql.html
+http://nosql.mypopescu.com/post/15308448223/nosql-databases-and-security-cassandra-and-mongodb
+http://erlend.oftedal.no/blog/?blogid=115
+http://stackoverflow.com/questions/8286778/mongodb-security
+http://www.goitworld.com/tag/mongodb/
+https://groups.google.com/forum/?fromgroups=#!topic/mongodb-csharp/82Mz2vqvgoI
+http://www.google.com/search?q=A+Secure+NoSQL+DB&sugexp=chrome,mod=8&sourceid=chrome&ie=UTF-8
+http://www.darkreading.com/blog/232600288/a-response-to-nosql-security-concerns.html
+http://www.infoq.com/articles/nosql-data-security-virtual-panel
+http://searchsecurity.techtarget.com/answer/Comparing-relational-database-security-and-NoSQL-security
+https://securosis.com/blog/nosql-and-no-security
+http://www.networkworld.com/community/blog/security-afterthought-nosql
+http://nosql-database.org/
+http://hadoop.apache.org/
